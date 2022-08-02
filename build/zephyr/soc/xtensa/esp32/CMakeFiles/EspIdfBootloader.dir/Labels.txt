@@ -1,0 +1,13 @@
+# Target labels
+ EspIdfBootloader
+# Source files and their labels
+/home/trevor/Dev/zephyr/tut01/build/zephyr/soc/xtensa/esp32/CMakeFiles/EspIdfBootloader
+/home/trevor/Dev/zephyr/tut01/build/zephyr/soc/xtensa/esp32/CMakeFiles/EspIdfBootloader.rule
+/home/trevor/Dev/zephyr/tut01/build/zephyr/soc/xtensa/esp32/CMakeFiles/EspIdfBootloader-complete.rule
+/home/trevor/Dev/zephyr/tut01/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-build.rule
+/home/trevor/Dev/zephyr/tut01/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-configure.rule
+/home/trevor/Dev/zephyr/tut01/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-download.rule
+/home/trevor/Dev/zephyr/tut01/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-install.rule
+/home/trevor/Dev/zephyr/tut01/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-mkdir.rule
+/home/trevor/Dev/zephyr/tut01/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-patch.rule
+/home/trevor/Dev/zephyr/tut01/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-update.rule
